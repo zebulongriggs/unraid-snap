@@ -5,7 +5,7 @@
 <!ENTITY author    "dlandon">
 <!ENTITY version   "2015.05.24">
 <!ENTITY pluginURL "https://github.com/dlandon/unraid-snap/raw/master/ntfs-3g-x86_64.plg">
-<!ENTITY pkgversion "2015.3.14">
+<!ENTITY pkgversion "2017.3.23">
 ]>
 
 <PLUGIN  name="&name;"
